@@ -1,2 +1,113 @@
-# ios-2-android
+# From iOS to Android
 Checklist moving from iOS to Android
+
+- [ ] Export Contacts
+- [ ] Export Calendars
+- [ ] Export Movies and Videos
+- [ ] Export Music from iTunes
+- [ ] Export Your SMS
+- [ ] Android Alternative Apps for iOS-ecosystem
+	- Remote for Apple-TV
+	- Stocks App
+	- Podcast Player
+	- Calculator
+
+- LastPass
+- Spotify
+- Calculator
+- Heos
+- Philips Hue
+- Storytel
+- Instagram
+- BankID
+- Swish
+- Avanza
+- Handelsbanken Privat
+- Handelsbanken Företag
+- Nordnet
+- Coinbase
+- Shareville
+- Skatteverket
+- Klarna
+- Dreams
+- Authenticator
+- Patreon
+- Mitt Apotek
+- Mina Sidor CSN
+- Mina Sidor Försäkringskassan
+- SAS
+- Ving
+- SJ
+- Swedavia
+- Hotels.com
+- Sleep Cycle
+- iA Writer
+- Flipboard
+- Medium
+- Dagens Nyheter
+- Omni
+- SR Play
+- Feedly
+- Facebook
+- Lightroom CC
+- Uber
+- Pinterest
+- Xbox
+- SL
+- Upflix
+- IMDb
+- SVT Play
+- Netflix
+- Viaplay
+- HBO
+- C More
+- Youtube
+- Truecaller
+- UL
+- Runkeeper
+- PS Express
+- Photoshop Fix
+- Canva
+- Adlibris Letto
+- Kindle
+- Goodreads
+- Fiverr
+- Slack
+- SMS Park
+- Waze
+- Prompt
+- Google Docs
+- Reddit
+- Ebay
+- Blocket
+- IKEA
+- Prisjakt
+- Tradera
+- Twitter
+- Orbi
+- Slow Shutter
+- WhatsApp
+- Camera+
+- Svenska Spel
+- SAS Mastercard
+- 9GAG
+- PostNord
+- Prime Video
+- Pingdom
+- Last Pass Authenticator
+- BlueJeans
+- Dropbox
+- Duo Mobile
+- Captune
+- Mitt Telenor
+- Buffer
+- Google Cloud Console
+- Flightradar 24
+- LinkedIn
+- EasyPark
+- Synology Drive
+- MindNode
+- Firefox Focus
+- Imgur
+- IFTTT
+
