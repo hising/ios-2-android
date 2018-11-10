@@ -12,13 +12,21 @@ Checklist moving from iOS to Android
 	- Podcast Player
 	- Calculator
 
-- LastPass
-- Spotify
-- Calculator
-- Heos
-- Philips Hue
-- Storytel
+## Social Media
 - Instagram
+- Facebook
+- Twitter
+- Pinterest
+- LinkedIn
+- Imgur
+- 9GAG
+
+## Music
+- Spotify
+- Apple Music
+- Heos
+
+## Economy
 - BankID
 - Swish
 - Avanza
@@ -30,30 +38,52 @@ Checklist moving from iOS to Android
 - Skatteverket
 - Klarna
 - Dreams
+- SAS Mastercard
+- American Express
+
+## Security
+- LastPass
 - Authenticator
-- Patreon
+- Last Pass Authenticator
+- Duo Mobile
+
+## Social Service
 - Mitt Apotek
 - Mina Sidor CSN
 - Mina Sidor Försäkringskassan
+
+## Home
+- Philips Hue
+- Orbi
+
+## Travel
 - SAS
 - Ving
 - SJ
 - Swedavia
 - Hotels.com
-- Sleep Cycle
-- iA Writer
+- SL
+- Uber
+- UL
+- Flightradar 24
+
+## News
 - Flipboard
 - Medium
 - Dagens Nyheter
 - Omni
-- SR Play
 - Feedly
-- Facebook
+- Reddit
+
+## Graphics
 - Lightroom CC
-- Uber
-- Pinterest
-- Xbox
-- SL
+- PS Express
+- Photoshop Fix
+- Canva
+- Slow Shutter
+- Camera+
+
+## Media
 - Upflix
 - IMDb
 - SVT Play
@@ -62,52 +92,76 @@ Checklist moving from iOS to Android
 - HBO
 - C More
 - Youtube
-- Truecaller
-- UL
-- Runkeeper
-- PS Express
-- Photoshop Fix
-- Canva
+- Prime Video
+- SR Play
+
+## Communication
+- Slack
+- WhatsApp
+- BlueJeans
+
+## Books
 - Adlibris Letto
 - Kindle
 - Goodreads
-- Fiverr
-- Slack
+- Storytel
+
+## Development
+- Prompt
+- Google Cloud Console
+
+## Driving
 - SMS Park
 - Waze
-- Prompt
+- EasyPark
+
+## Writing
 - Google Docs
-- Reddit
+- iA Writer
+- MindNode
+
+## Shopping
 - Ebay
 - Blocket
 - IKEA
 - Prisjakt
 - Tradera
-- Twitter
-- Orbi
-- Slow Shutter
-- WhatsApp
-- Camera+
-- Svenska Spel
-- SAS Mastercard
-- 9GAG
-- PostNord
-- Prime Video
-- Pingdom
-- Last Pass Authenticator
-- BlueJeans
-- Dropbox
-- Duo Mobile
-- Captune
-- Mitt Telenor
+
+## Services
+- Fiverr
 - Buffer
-- Google Cloud Console
-- Flightradar 24
-- LinkedIn
-- EasyPark
-- Synology Drive
-- MindNode
-- Firefox Focus
-- Imgur
+- Pingdom
+- Patreon
 - IFTTT
+
+## Gaming
+- Xbox
+- Svenska Spel
+
+## Telephone
+- Mitt Telenor
+- Truecaller
+
+## Cloud Storage
+- Synology Drive
+- Dropbox
+
+## Health
+- Sleep Cycle
+- Runkeeper
+
+## Browsers
+- Firefox Focus
+
+## Tracking
+- PostNord
+
+## Hardware Apps
+- Captune
+
+
+
+
+
+
 
